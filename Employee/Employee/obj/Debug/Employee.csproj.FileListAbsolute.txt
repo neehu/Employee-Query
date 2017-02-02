@@ -1,0 +1,7 @@
+C:\Users\Neeharika.Pathuri\Documents\HelloWorld\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\Neeharika.Pathuri\Documents\Employee-Query\Employee\Employee\obj\Debug\Employee.pdb
